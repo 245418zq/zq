@@ -1,0 +1,1 @@
+INSERT INTO yunzhi_gd.sx_wemall_scan_record (id,ip_address,ip_forwarded,os,barcode,lat,lng,u_agent,device,location,factory_code,created_at,country,province,city,area,create_time,scan_date,first,cate_id,is_deal) VALUES('1','116.21.162.61','','iOS 8','001','0','0','','iPho''''''ne','','','2015-07-07 15:05:28','','','','','0','2015-07-07','1','0','0');
